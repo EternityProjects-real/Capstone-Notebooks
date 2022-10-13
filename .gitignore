@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Dataset/
+env/
+lables/
+alzheimer_model.h5
+model.h5
